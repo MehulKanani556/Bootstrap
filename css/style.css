@@ -1,0 +1,10 @@
+.row > div:nth-child(odd){
+    background-color: rgb(201, 175, 224);
+}
+.row > div:nth-child(even){
+    background-color: rgb(135, 83, 180);
+    color: white;
+}
+.row{
+    margin-bottom: 20px;
+}
